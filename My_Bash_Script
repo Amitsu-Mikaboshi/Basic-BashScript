@@ -1,0 +1,11 @@
+#!/bin/bash
+
+alias go="cd ~/picoCTFLab"
+alias c="clear"
+alias tada="shutdown now"
+alias finish="rm -r ~/picoCTFLab/*"
+alias per="chmod +x $1"
+alias rej="chmod -x $1"
+alias collect="mv ~/Downloads/* ~/picoCTFLab"
+alias get="sudo apt-get install $1"
+alias remv="sudo apt-get purge $1"
